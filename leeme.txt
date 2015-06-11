@@ -1,0 +1,73 @@
+=======================================================
+= RJGG / CHUBU CENTRAIR INTERNATIONAL AIRPORT / JAPÓN =
+=======================================================
+
+INTRODUCCIÓN
+============
+
+Chubu Centrair (RJGG) está clasificado como un aeropuerto de primera clase, y es la principal puerta internacional de entrada a la región de Chubu ("central"), en Japón, y actualmente está contado entre los aeropuertos Top-10 más modernos del mundo. Chubu es un aeropuerto en una isla artificial en la Bahía de Ise, Ciudad de Tokoname en la Prefectura de Aichi, 35 km (22 mi) al sur de Nagoya en Japón central.
+
+Originalmente una simple pista en medio del óceano en el terreno por defecto de FlightGear, he modelado y desarrollado ahora el edificio de la terminal principal (diseñado en forma de "T") a un alto nivel de detalle y realismo, la torre ATC y los hangares principales en los alrededores del aeropuerto. Una segunda versión considera completar el resto de las edificiaciones presentes en la isla. La terminal y los edificios principales han sido animados con texturas nocturnas, los cuáles, complementados con luces y modelos 3D de aviones tomados del paquete original de FG, dan al aeropuerto una impresión muy realista y fantástica.
+
+Las ventanas principales han sido tratadas usando fotografías reales para un efecto de reflexión fotorrealista en los ventanales. Con excepción de las fotografías usadas como efecto, todas las texturas han sido desarrolladas como parte de un trabajo único y exclusivo desde cero, agregando biseles, sombras, luces, ruido, ecualización de colores y muchos otros efectos para obtener realismo en cada textura usada.
+
+El terreno de la isla y la costa circundante ha sido desarrolada en un alto nivel correspondiente de detalle por Gijs de Rooy para completar los elementos necesarios para proveer un gran nuevo aeropuerto para FlightGear, conteniendo todos los caminos internos y vías férreas, lo cuál deja el camino abierto para futuros trabajos como puentes, estacionamientos y otros detalles del transporte vehicular, desde y hacia la isla.
+
+
+INSTALACIÓN
+============
+
+Es necesario tener instalado previamente el escenario "e130n30".
+
+1.- Reemplaza todos los archivos contenidos en "Terrain" en tu directorio "data/Scenery/Terrain".
+2.- Copia la carpeta "Airport-RJGG" a "data/Models".
+
+... y a disfrutar!!!
+
+NOTA: Si el nivel de FPS se ve seriamente afectado por la cantidad de modelos contenidos, puedes editar el archivo "5185331.stg" en la carpeta "Terrain", y borrar objetos y elementos adicionales que no son completamente necesarios para disfrutar el escenario, los cuáles están claramente separados y etiquetados para una mejor identificación de ellos.
+
+
+GNU GPL LICENSE
+===============
+
+RLGG CHUBU CENTRAIR - 1.0
+Copyright (C) 2010 Horacio Contreras
+
+Este programa es software libre: usted puede redistribuirlo y/o modificarlo 
+bajo los términos de la Licencia Pública General GNU publicada 
+por la Fundación para el Software Libre, ya sea la versión 2 
+de la Licencia, o (a su elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil, pero 
+SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita 
+MERCANTIL o de APTITUD PARA UN PROPÓSITO DETERMINADO. 
+Consulte los detalles de la Licencia Pública General GNU para obtener 
+una información más detallada. 
+
+
+AGRADECIMIENTOS!!
+========
+
+Quiero dedicar especiales agradecimientos a algunos grandes fotógrafos y personas que amablemente me autorizaron para usar sus trabajos e incluirlos como parte de mi propio trabajo:
+
+- David Ritter: de "www.rgbstock.com", por su gran fotografía "TGen building at night", la cuál provee a las ventanas nocturnas del modelo 3D de Chubu su cálida y maravillosa visión.
+
+- Junichi Suzuki: de "www.planepictures.net", por sus fantásticas y útiles fotografías en alta resolución tomadas en Chubu Centrair, y amablemente enviadas por mail para hacer mejor uso de ellas. Por su generosa asistencia y ayuda ofrecida, y por el texto en japonés provisto para el edificio de la "NAC", en Chubu.
+
+- Kazuchika Naya: de "www.planepictures.net", por sus útiles fotografías de aviones de la "ANA" y "China Airlines" tomadas en el Aeropuerto de Haneda, en Tokyo.
+
+- Gijs de Rooy: por su desinteresada ayuda y excelente documentación provista del aeropuerto de Chubu, y por su muy bien desarrollado y detallado terreno de la isla, necesario para el correcto posicionamiento del aeropuerto. Ahora tenemos un excelente aeropuerto más para FlightGear.
+
+- Pavel Cueto: por su vectorización de "Nagoya Eakeetaringu" en el edificio de la "NAC".
+
+
+... para toda la comunidad Flightgear.
+http://www.flightgear.org/
+
+____________________________________
+HORACIO CONTRERAS R.
+http://www.grafikavirtual.com/fgfs
+horacio0810@gmail.com
+
+Visita: http://www.vivefg.org/
+Comunidad hispano-americana de FlightGear!
