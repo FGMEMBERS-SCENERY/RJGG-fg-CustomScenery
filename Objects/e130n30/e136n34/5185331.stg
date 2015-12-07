@@ -1,8 +1,8 @@
 OBJECT_SHARED Models/Airport/ndb.ac 136.926411 34.752058 18.58 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 136.803169 34.858006 0 180
 
-/* Objects by Horacio Contreras from ViveFG */
-/* Main objects */
+## Objects by Horacio Contreras from ViveFG  
+## Main objects  
 OBJECT_STATIC RJGG_Terminal.xml 136.80853026 34.86329259 0.0 11.0
 OBJECT_STATIC RJGG_Tower.xml 136.81429963 34.86255543 0.0 0.0
 OBJECT_STATIC RJGG_tower_red-light.xml 136.81429992 34.86248776 96.8964 0.0
@@ -10,7 +10,7 @@ OBJECT_STATIC RJGG_tower_red-light.xml 136.81429937 34.86262249 96.8964 0.0
 OBJECT_STATIC RJGG_hangars.xml 136.81026085 34.86429316 0.0 101.2
 OBJECT_STATIC RJGG_name.ac 136.80531072 34.85443190 0.0 190.9
 
-/* Aircrafts on terminal */
+## Aircrafts on terminal  
 OBJECT_SHARED Models/Aircraft/MD11cargo.xml 136.81506063 34.85169175 0.015 12.0
 OBJECT_SHARED Models/Aircraft/MD11_services.xml 136.81425340 34.85437450 0.0159 20.0
 OBJECT_SHARED Models/Aircraft/B747_services.xml 136.81268608 34.86087278 -0.0015 11.6
@@ -18,7 +18,7 @@ OBJECT_SHARED Models/Aircraft/A340_services.xml 136.81211990 34.86338929 -0.0368
 OBJECT_SHARED Models/Aircraft/MD90_services.xml 136.81223786 34.85784735 -0.0297 92.0
 OBJECT_SHARED Models/Aircraft/B737.xml 136.81140749 34.85767193 -0.0623 88.0
 
-/* Aircrafts on center square */
+## Aircrafts on center square  
 OBJECT_SHARED Models/Aircraft/a340-aircanada.xml 136.81230246 34.85455398 0.25 281.5
 OBJECT_SHARED Models/Aircraft/a340-airfrance.xml 136.81099396 34.85438166 0.25 281.5
 OBJECT_SHARED Models/Aircraft/a332corsair-obj.xml 136.81207949 34.85540559 0.3 101.5
@@ -26,7 +26,7 @@ OBJECT_SHARED Models/Aircraft/a340-lufthansa.xml 136.81076712 34.86176071 0.2548
 OBJECT_SHARED Models/Aircraft/a340-airfrance.xml 136.80932117 34.86157293 0.2238 281.5
 OBJECT_SHARED Models/Aircraft/MD11cargo.xml 136.80922071 34.86203265 0.0177 281.5
 
-/* Aircrafts on hangars */
+## Aircrafts on hangars  
 OBJECT_SHARED Models/Aircraft/A380_services.xml 136.80790091 34.87206164 0.0 9.3
 OBJECT_SHARED Models/Aircraft/A310_services.xml 136.80896023 34.86773675 0.0 10.2
 OBJECT_SHARED Models/Aircraft/B737.xml 136.80869252 34.86876765 0.0 10.7
@@ -34,7 +34,7 @@ OBJECT_SHARED Models/Aircraft/D328_services.xml 136.80854730 34.86935980 0.0 10.
 OBJECT_SHARED Models/Aircraft/F50_services.xml 136.80843294 34.86989658 0.0 10.0
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 136.80798578 34.87424200 0.0 186.0
 
-/* Lights on gates */
+## Lights on gates  
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml 136.81210474 34.86438787 0.0 16.0
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml 136.81224345 34.86379854 0.0 16.0
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml 136.81243318 34.86299655 0.0 16.0
@@ -58,7 +58,7 @@ OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml 136.81157636 34.8592382
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml 136.81074732 34.85910603 0.0 288.0
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml 136.80990216 34.85896811 0.0 288.0
 
-/* Lights on center square */
+## Lights on center square  
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.81101672 34.86208854 0.0 101.5
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.81034665 34.86198544 0.0 101.5
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.80964792 34.86188172 0.0 101.5
@@ -68,7 +68,7 @@ OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.81188623 34.85484165 0.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.81123116 34.85471958 0.0 101.5
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.81060034 34.85459970 0.0 101.5
 
-/* Lights on hangars */
+## Lights on hangars  
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.80988702 34.86405742 0.0530 283.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.80976387 34.86539690 0.1010 283.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.80947201 34.86660393 0.1010 283.0
@@ -79,12 +79,12 @@ OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.80846298 34.87080363 0.1
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.80822679 34.87178017 0.1010 283.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 136.80793648 34.87298875 0.1010 283.0
 
-/* Lights on free square */
+## Lights on free square  
 OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 136.81509955 34.85294187 -0.002 10.4
 OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 136.81538731 34.85171876 -0.002 10.4
 OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 136.81568420 34.85048835 -0.002 10.4
 
-/* Additional structures */
+## Additional structures  
 OBJECT_SHARED Models/Airport/EHAM_olietank_b.ac 136.82219474 34.85067811 0.0 0.0
 OBJECT_SHARED Models/Airport/EHAM_olietank_b.ac 136.82229009 34.85025464 0.0 0.0
 OBJECT_SHARED Models/Airport/EHAM_olietank_b.ac 136.82188834 34.84975849 0.0 0.0
@@ -99,7 +99,7 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 136.81692398 34.86759836 0.
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 136.81095629 34.86920264 0.0 4.8
 OBJECT_SHARED Models/Communications/cell-monopole3-75m.xml 136.81112961 34.86869601 0.0 0.0
 
-/* Additional airport objects */
+## Additional airport objects  
 OBJECT_SHARED Models/Airport/caisses1.xml 136.81223288 34.86356871 0.0 12.0
 OBJECT_SHARED Models/Airport/caisses1.xml 136.81284455 34.86101266 0.0 16.0
 OBJECT_SHARED Models/Airport/caisses1.xml 136.81159714 34.85760304 0.0 96.0
@@ -143,9 +143,6 @@ OBJECT_SHARED Models/Airport/elevator.xml 136.81383407 34.85719066 0.0 280.0
 OBJECT_SHARED Models/Airport/elevator.xml 136.81381882 34.85728098 0.0 280.0
 OBJECT_SHARED Models/Airport/elevator.xml 136.81381175 34.85731343 0.0 280.0
 OBJECT_SHARED Models/Airport/elevator.xml 136.81380206 34.85734701 0.0 280.0
-OBJECT_SHARED Models/Airport/hoskosh-ti-1500.xml 136.81251328 34.85929492 0.0 12.0
-OBJECT_SHARED Models/Airport/hoskosh-ti-1500.xml 136.81390009 34.85715630 0.0 102.5
-OBJECT_SHARED Models/Airport/hoskosh-ti-1500.xml 136.81313990 34.85820674 0.0 144.0
 OBJECT_SHARED Models/Airport/passerelle.xml 136.80909379 34.86175677 0.0 16.0
 OBJECT_SHARED Models/Airport/passerelle.xml 136.81019014 34.86195791 0.0 14.3
 OBJECT_SHARED Models/Airport/passerelle.xml 136.81026074 34.86195870 0.0 12.0
