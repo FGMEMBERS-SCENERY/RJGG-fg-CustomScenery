@@ -10,7 +10,7 @@ OBJECT world
 kids 7
 OBJECT poly
 name "RJGG_tower_windows2"
-texture "RJGG_tower_windows2.jpg"
+texture "RJGG_tower_windows2.png"
 numvert 48
 -1.592388 94.816767 -7.155670
 0.256915 91.489992 -5.994497
@@ -18800,7 +18800,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_tower_walls1.jpg"
+texture "RJGG_tower_walls1.png"
 numvert 913
 -2.946944 99.489992 2.704722
 -4.433204 96.489992 2.312295
@@ -26433,7 +26433,7 @@ refs 3
 kids 0
 OBJECT poly
 name "RJGG_tower_windows1"
-texture "RJGG_tower_windows1.jpg"
+texture "RJGG_tower_windows1.png"
 numvert 96
 -1.174736 89.000000 8.923004
 -1.963640 79.108466 7.328406
@@ -27111,7 +27111,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_tower_windows_stripes.jpg"
+texture "RJGG_tower_windows_stripes.png"
 numvert 96
 -0.990292 79.108466 7.522017
 -1.848337 75.989992 6.898089

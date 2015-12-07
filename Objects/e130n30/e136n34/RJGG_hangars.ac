@@ -20,7 +20,7 @@ OBJECT world
 kids 17
 OBJECT poly
 name "RJGG_windows1"
-texture "RJGG_windows1.jpg"
+texture "RJGG_windows1.png"
 numvert 24
 7.500000 40.200000 -1287.183574
 6.500000 27.058620 -1287.183574
@@ -134,7 +134,7 @@ refs 3
 kids 0
 OBJECT poly
 name "RJGG_hangar3"
-texture "RJGG_hangar3.jpg"
+texture "RJGG_hangar3.png"
 numvert 8
 194.355131 -0.000000 -70.885074
 194.355131 15.000000 -43.885074
@@ -3974,7 +3974,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_walls1.jpg"
+texture "RJGG_walls1.png"
 numvert 84
 -5.000000 15.000000 -65.000000
 -5.000000 13.000000 -55.000000
@@ -4832,7 +4832,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_metal_corrugated.jpg"
+texture "RJGG_metal_corrugated.png"
 numvert 124
 8.500000 18.000000 -987.200000
 8.500000 15.000000 -822.700000
@@ -5778,7 +5778,7 @@ refs 3
 kids 0
 OBJECT poly
 name "RJGG_hangar2"
-texture "RJGG_hangar2.jpg"
+texture "RJGG_hangar2.png"
 numvert 58
 32.755131 20.000000 -15.000000
 32.755131 14.500000 -0.000000
@@ -6567,7 +6567,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_jetway_roof.jpg"
+texture "RJGG_jetway_roof.png"
 numvert 250
 8.000000 20.000000 -987.700000
 32.250000 20.499575 -987.700000
@@ -9091,7 +9091,7 @@ refs 3
 kids 0
 OBJECT poly
 name "RJGG_hangar1"
-texture "RJGG_hangar1.jpg"
+texture "RJGG_hangar1.png"
 numvert 31
 137.755131 20.000000 -0.000000
 136.705131 -0.000000 -0.000000
@@ -9314,7 +9314,7 @@ refs 3
 kids 0
 OBJECT poly
 name "RJGG_walls2"
-texture "RJGG_walls2.jpg"
+texture "RJGG_walls2.png"
 numvert 44
 8.000000 7.000000 -49.200000
 8.000000 0.000000 -1.000000
@@ -9794,7 +9794,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_roads.jpg"
+texture "RJGG_roads.png"
 numvert 14
 200.000000 0.150000 19.000000
 -26.000000 0.000000 19.000000
@@ -9916,7 +9916,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_walls3.jpg"
+texture "RJGG_walls3.png"
 numvert 204
 -0.000000 13.000000 -1301.183574
 20.000000 -0.000000 -1301.183574
@@ -12334,7 +12334,7 @@ refs 3
 kids 0
 OBJECT poly
 name "blah"
-texture "RJGG_roof.jpg"
+texture "RJGG_roof.png"
 crease 6.02195225874602
 numvert 109
 194.355131 15.000000 -43.885074
