@@ -1,0 +1,95 @@
+This custom scenery is intended to install RJGG Geneve Intl. Airport.
+All of the modifications within this scenery packages are being also
+updated in terrasync.
+
+Importantly, DO NOT MERGE THE CONTENTS OF THIS SCENERY WITHIN YOUR TERRASYNC
+SCENERY FOLDERS. There are many valid reasons for these. But to mention some:
+
+1. Your terrasync may stop updating the area, or
+2. Your next terrasync fetch may partially or totally reset the changes
+
+To install, follow:
+
+1. Verify that you posses a current git version
+
+  a. MacOS or UNIX (LINUX) users
+     $  git --version
+  if a response indicating the version of git comes, then git is installed,
+     otherwise install a current version of git for your system
+  
+  b. Windows users 
+  Verify that you have a functional git version. Several packages exist. Any
+  package with a GIT BASH function shall suffice.
+
+2. Initial GIT cloning
+
+  Open a terminal or a GIT BASH (Windows) terminal. 
+  
+  Create a folder for CustomScenery, ideally outside the Flightgear
+  installation paths. Example (for UNIX like- or MacOS):
+
+  $ mkdir /home/myname/FG_CustomScenery 
+
+  To clone the GIT, change to such directory and inside execute the command
+
+  [/home/myname/FG_CustomScenery]$> git clone  git@github.com:FGMEMBERS-SCENERY/RJGG-fg-CustomScenery.git
+
+  You shall see information about RJGG-fg-customScenery being cloned, and once
+  finished you should have the respective directory. This directory should
+  have permissions set for the user to read, write and execute. This directory
+  will reside inside your FG_CustomScenery
+
+3. Updating your GIT
+
+  When new changes occur to the version (such as updates), an update of your
+  git directory needs to take place to fetch such changes locally. This is a
+  disavantage to Terrasync's version, that updates automatically. But git
+  updates will only download new or changed files reducing the size of
+  subsequent downloads needed (as oppose to attempt getting the distribution
+  as ZIP files)
+
+  To update (pull) the git, open the terminal (or the git bash) and change to
+  the directory created (RJGG-fg-CustomScenery).
+
+  Then execute the pull command. If errors exist, double verify that you are
+  executing the command inside the proper git directory (This is a common
+  mistake)
+
+  [/home/myname/FG_CustomScenery/RJGG-fg-CustomScenery]>$ git pull
+
+4. Getting FGFS to recognize and use the Custom Scenery Folder
+
+  This highly depends on how do you launch flightgear and a general
+  instruction cannot effectively be provided but, keep in mind that you are
+  trying to point FG to innitiate with this directory in the Scenery path
+
+  a. Command line launching
+  
+ add --fg-scenery=/home/myname/FG_CustomScenery/RJGG-fg-CustomScenery (to your
+ command line parameters; Make sure you are pointing to the right PATH)
+
+  b. FGLauncher (Windows or Linux)
+
+ The first page does include a position to list for Scenery Directories. Point
+ to this directory, and give it a higher priority than any terrasync folder
+ listed (if this one exist)
+
+  c. FGLauncher (MacOS)
+
+ Look for Install Add-On Packages and point to this directory. Then use Open
+ Add-On packages to verify that everything is set correctly.
+
+
+C. Oops I MERGED these to the terrasnc folders, because I did not know this
+was inconvenient, or because I did wanted to see mayhem with my own eyes. 
+
+To solve.
+
+1. Go to your terrasync folder
+2. Enter the Terrain folder and completely delete the subfolder e000n40
+3. Go back to you terrasync folder
+4. Enter the Objects folder and completely delete the subfolder e000n40
+5. Relaunch flightgear into RJGG to re-download your terrasync packages cleanly
+
+Have Fun Flying,
+IH-COL 2015

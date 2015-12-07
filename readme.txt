@@ -1,6 +1,12 @@
+ RJGG / CHUBU CENTRAIR INTERNATIONAL AIRPORT / JAPAN 
 =======================================================
-= RJGG / CHUBU CENTRAIR INTERNATIONAL AIRPORT / JAPAN =
-=======================================================
+
+Changelog
+---------
+
+* Directory structure has been restructured. This scenery now can be used as a scenery package and directed with the laucher or via the command line. No additional download or patching required. See Installation instructions on README.install
+
+IH-COL -- Dec 2015
 
 INTRODUCTION
 ============
@@ -16,15 +22,8 @@ The island terrain and surrounding coastline have been developed in an according
 INSTALLATION
 ============
 
-You need to have already installed the scenary "e130n30".
-
-1.- Replace all files contained on "Terrain" to your "data/Scenery/Terrain" folder.
-2.- Copy "Airport-RJGG" folder to "data/Models".
-
-... and enjoy it!!!
-
-NOTE: If FPS is too serious affected by quantity of models contained, you can edit the "5185331.stg" on "Terrain" folder, and delete additional objects and elements that aren't entirely necesary to enjoy the scenary, which are clearly separated and labeled to better identify them.
-
+<a href="https://github.com/FGMEMBERS-SCENERY/RJGG-fg-CustomScenery/blob/master/README.install">~/.README.install</a>
+(Edited IAHM-COL; Dec 2015)
 
 GNU GPL LICENSE
 ===============
@@ -63,9 +62,9 @@ I want to specially thanks to some great photographers and people whom have kind
 http://www.flightgear.org/
 
 ____________________________________
-HORACIO CONTRERAS R.
-http://www.grafikavirtual.com/fgfs
-horacio0810@gmail.com
+HORACIO CONTRERAS R. <br>
+http://www.grafikavirtual.com/fgfs<br>
+horacio0810 at gmail.com
 
-Visit: http://www.vivefg.org/
+Visit: http://www.vivefg.org/<br>
 Spain-LatinAmerica FlightGear community!
