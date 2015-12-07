@@ -1,9 +1,17 @@
+RJGG / CHUBU CENTRAIR INTERNATIONAL AIRPORT / JAPÓN 
 =======================================================
-= RJGG / CHUBU CENTRAIR INTERNATIONAL AIRPORT / JAPÓN =
-=======================================================
+
+Registro de Cambios
+-------------------
+
+* El directorio ha sido restructurado. Este escenario ahora puede ser usado como un paquete addicional e indicado mediante el launcher o la terminal. No se requiere descargas adicionales o parcheo de datos. Lea el archivo README.install para obtener mas detalles sobre la instalacion. 
+
+IH-COL -- Dec 2015
+
 
 INTRODUCCIÓN
 ============
+
 
 Chubu Centrair (RJGG) está clasificado como un aeropuerto de primera clase, y es la principal puerta internacional de entrada a la región de Chubu ("central"), en Japón, y actualmente está contado entre los aeropuertos Top-10 más modernos del mundo. Chubu es un aeropuerto en una isla artificial en la Bahía de Ise, Ciudad de Tokoname en la Prefectura de Aichi, 35 km (22 mi) al sur de Nagoya en Japón central.
 
@@ -17,15 +25,8 @@ El terreno de la isla y la costa circundante ha sido desarrolada en un alto nive
 INSTALACIÓN
 ============
 
-Es necesario tener instalado previamente el escenario "e130n30".
-
-1.- Reemplaza todos los archivos contenidos en "Terrain" en tu directorio "data/Scenery/Terrain".
-2.- Copia la carpeta "Airport-RJGG" a "data/Models".
-
-... y a disfrutar!!!
-
-NOTA: Si el nivel de FPS se ve seriamente afectado por la cantidad de modelos contenidos, puedes editar el archivo "5185331.stg" en la carpeta "Terrain", y borrar objetos y elementos adicionales que no son completamente necesarios para disfrutar el escenario, los cuáles están claramente separados y etiquetados para una mejor identificación de ellos.
-
+<a href="https://github.com/FGMEMBERS-SCENERY/RJGG-fg-CustomScenery/blob/master/README.install">~/.README.install</a>
+(Edited IAHM-COL; Dec 2015)
 
 GNU GPL LICENSE
 ===============
