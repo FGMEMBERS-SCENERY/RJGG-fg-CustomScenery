@@ -1,6 +1,8 @@
  RJGG / CHUBU CENTRAIR INTERNATIONAL AIRPORT / JAPAN 
 =======================================================
 
+![VIVE FG](https://raw.githubusercontent.com/FGMEMBERS-SCENERY/RJGG-fg-CustomScenery/master/RJGG_night01.png)
+
 Changelog
 ---------
 
@@ -28,8 +30,8 @@ INSTALLATION
 GNU GPL LICENSE
 ===============
 
-RLGG CHUBU CENTRAIR - 1.0
-Copyright (C) 2010 Horacio Contreras
+RJGG CHUBU CENTRAIR - 1.0<br>
+:copyright: 2010, Horacio Contreras
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
