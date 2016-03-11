@@ -1,27 +1,17 @@
-<?xml version="1.0"?>
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
-  <path>RJGG_Tower.ac</path>
+
+  <path>RJBB_Tower.ac</path>
   
-  <!-- Transposición de texturas nocturnas -->
-  
-  <animation>
-    <type>textranslate</type>
-    <object-name>RJGG_tower_windows1</object-name>
-    <object-name>RJGG_tower_windows2</object-name>
-    <property>/sim/time/sun-angle-rad</property>
-    <step> 1.57 </step>
-    <factor>0.318471338</factor>
-    <center>
-      <x-m> 0 </x-m>
-      <y-m> 0 </y-m>
-      <z-m> 0 </z-m>
-    </center>
-    <axis>
-      <x>  0 </x>
-      <y> -1 </y>
-      <z>  0 </z>
-    </axis>
-  </animation>
-  
+  <effect>
+    <inherits-from>/Effects/model-combined-deferred</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <texture n="3">
+	<image>RJBB_Tower_lightmap.png</image>
+      </texture>
+    </parameters>
+    <object-name>RJBB_Tower</object-name>
+  </effect>
+
 </PropertyList>
