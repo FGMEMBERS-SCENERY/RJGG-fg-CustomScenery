@@ -4,7 +4,6 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 136.803169 34.858006 0 180
 ## Objects by Horacio Contreras from ViveFG
 ## Split into individual objects to prepare for Terrasync by IAHM-COL
 ## Main objects  
-#OBJECT_STATIC RJGG_Terminal.xml 136.80853026 34.86329259 0.0 11.0
 OBJECT_STATIC RJGG_Terminal1.xml 136.81583854 34.85814494 0.00 11.0 0.0 -0.0
 OBJECT_STATIC RJGG_Terminal2.xml 136.81692181 34.85884766 0.00 10.9 0.0 -0.0
 OBJECT_STATIC RJGG_Tower.xml 136.81429963 34.86255543 0.0 0.0
