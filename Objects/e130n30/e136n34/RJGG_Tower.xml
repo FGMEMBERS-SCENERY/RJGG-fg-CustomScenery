@@ -11,7 +11,7 @@
 	<image>RJGG_Tower_lightmap.png</image>
       </texture>
     </parameters>
-    <object-name>RJGG_Tower</object-name>
+    <object-name>RJGG_tower</object-name>
   </effect>
 
 </PropertyList>
